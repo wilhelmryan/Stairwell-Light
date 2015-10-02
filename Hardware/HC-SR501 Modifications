@@ -1,3 +1,6 @@
 HC-SR501 supports both repeating and non-repeating triggers. 
 
-Contrary to what would otherwise be the logical decision... repeating trigger mode will trigger once on motion, remain on for the duration of the desired delay time, turn off then will not trigger again until there is no motion in the PIR sensor field. A non-repeating trigger will occur EVERY TIME there is motion detected in the field of view which is exactly what we want. 
+Contrary to what would otherwise be the logical decision... repeating trigger mode will trigger once on motion, 
+remain on for the duration of the desired delay time, turn off then will not trigger again until there is no motion 
+in the PIR sensor field. A non-repeating trigger will occur EVERY TIME there is motion detected in the field of view... 
+which is exactly what we want. 
