@@ -1,5 +1,7 @@
 /*
 PIR->Base of NPN transistor, Emitter->pin2
+
+http://snag.gy/sGc7A.jpg
 */
 
 unsigned long rampperiod=200;
